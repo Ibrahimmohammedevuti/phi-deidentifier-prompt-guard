@@ -1,0 +1,6 @@
+{
+  "name": "ClinGuard: HIPAA Safe Harbor PHI De-Identification & Prompt Injection Firewall",
+  "description": "Cybersecurity and clinical informatics workbench for HIPAA Safe Harbor 18-identifier PHI de-identification, pseudonymization, XML sandwich prompt injection firewalling, and compliance audit generation by Dr. Ibrahim Mohammed (MD).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
